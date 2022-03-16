@@ -38,5 +38,5 @@ background('#6C91C2');
   document.getElementById("font_size").innerHTML = "Font size of the text will be = " + difference +"px";
 textSize(difference);
 fill('#FFE787');
-text('Peter', 50, 400);
+text('GID', 50, 400);
 }
